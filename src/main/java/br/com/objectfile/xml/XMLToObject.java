@@ -1,4 +1,4 @@
-package br.com.xml.controller;
+package br.com.objectfile.xml;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
